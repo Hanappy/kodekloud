@@ -1,3 +1,5 @@
+# Day 10
+
 The production support team of xFusionCorp Industries is working on developing some bash scripts to automate different day to day tasks. One is to create a bash script for archiving website content files. They have a static website running on App Server 1 in Stratos Datacenter, and they need to create a bash script named ecommerce_archive.sh which should accomplish the following tasks. (Also remember to place the script under the /scripts directory on App Server 1).
 
 
